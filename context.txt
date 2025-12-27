@@ -1,0 +1,56 @@
+
+1
+
+Automatic Zoom
+ 
+Projet Data Analytics Spark + MLlib + 
+Sécurité (version GitHub) 
+Objectif 
+En binôme, les étudiants doivent produire un pipeline Spark complet, depuis la collecte des 
+données jusqu’à l’analyse avancée avec MLlib, en incluant la sécurisation des données et les 
+agrégations pour reporting.  L’ensemble du projet doit être hébergé sur GitHub, avec un README détaillé expliquant 
+toutes les étapes, les choix et les interprétations. 
+ 
+Workflow intégré du projet 
+1.  Choix des datasets  
+○  Récupérer deux datasets volumineux (≥100 000 lignes chacun) sur un sujet 
+concret (transport, santé, finance, consommation...).  
+○  Exemples :  
+■  NYC Taxi & Limousine Trip Data 
+ 
+■  Open Food Facts  
+■  Base DVF – Transactions immobilières France  
+○  Justifier le choix des datasets et le problème métier que vous souhaitez explorer.  
+2.  Nettoyage et préparation  
+○  Traiter les valeurs manquantes et formats inconsistants.  
+○  Préparer les colonnes pour réaliser la jointure.  
+○  Justifier vos transformations.  
+3.  Jointure des datasets  
+○  Réaliser la jointure sur des clés pertinentes.  
+ 
+ 
+○  Justifier le choix des clés et la pertinence de la jointure.  
+4.  Sécurisation des données  
+○  Identifier les colonnes sensibles.  
+○  Si aucune donnée sensible réelle n’est présente → simuler des colonnes sensibles 
+(ex : ID clients, emails).  
+○  Appliquer des techniques de sécurisation :  
+■  Hashage (SHA-256) pour pseudonymiser les identifiants  
+■  Masquage partiel pour colonnes confidentielles  
+○  Justifier vos choix et expliquer comment la sécurité est assurée.  
+5.  Agrégations et export pour reporting  
+○  Calculer des indicateurs clés (moyenne, somme, top N, taux, segmentation, etc.) 
+pour la direction.  
+○  Exporter le (s)  DataFrame (s)  sécurisé (s)  et agrégé (s).  
+○  Justifier le choix des agrégations et leur utilité pour le reporting.  
+6.  Analyse avancée avec MLlib  
+○  Choisir un algorithme adapté :  
+■  Clustering (KMeans)  
+■  Régression (Linear Regression, Decision Tree)  
+■  Classification (Logistic Regression, Random Forest)  
+○  Former le modèle, l’évaluer et interpréter les résultats.  
+○  Justifier le choix du modèle et l’interprétation des résultats.  
+7.  Visualisation et interprétation  
+○  Créer des graphiques synthétiques pour illustrer vos insights.  
+○  Les visualisations doivent être intégrées dans le notebook et expliquées.  
+ 
