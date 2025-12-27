@@ -1,0 +1,210 @@
+row-index
+	
+
+A unique LC assigned ID for the loan listing.
+	
+
+A unique LC assigned Id for the borrower member.
+	
+
+The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.
+	
+
+The total amount committed to that loan at that point in time.
+	
+
+The total amount committed by investors for that loan at that point in time.
+	
+
+The number of payments on the loan. Values are in months and can be either 36 or 60.
+	
+
+Interest Rate on the loan
+	
+
+The monthly payment owed by the borrower if the loan originates.
+	
+
+LC assigned loan grade
+	
+
+LC assigned loan subgrade
+	
+
+The job title supplied by the Borrower when applying for the loan.*
+	
+
+Employment length in years. Possible values are between 0 and 10 where 0 means less than one year and 10 means ten or more years.
+	
+
+The home ownership status provided by the borrower during registration. Our values are: RENT, OWN, MORTGAGE, OTHER.
+	
+
+The self-reported annual income provided by the borrower during registration.
+	
+
+The month which the loan was funded
+	
+
+Current status of the loan
+	
+
+Indicates if a payment plan has been put in place for the loan
+	
+
+URL for the LC page with listing data.
+	
+
+Loan description provided by the borrower
+	
+
+A category provided by the borrower for the loan request.
+	
+
+The loan title provided by the borrower
+	
+
+The first 3 numbers of the zip code provided by the borrower in the loan application.
+	
+
+The state provided by the borrower in the loan application
+	
+
+A ratio calculated using the borrower’s total monthly debt payments on the total debt obligations, excluding mortgage and the requested LC loan, divided by the borrower’s self-reported monthly income.
+	
+
+The number of 30+ days past-due incidences of delinquency in the borrower's credit file for the past 2 years
+	
+
+The month the borrower's earliest reported credit line was opened
+	
+
+The number of inquiries in past 6 months (excluding auto and mortgage inquiries)
+	
+
+The number of months since the last public record.
+	
+
+The number of open credit lines in the borrower's credit file.
+	
+
+Number of derogatory public records
+	
+
+Total credit revolving balance
+	
+
+Revolving line utilization rate, or the amount of credit the borrower is using relative to all available revolving credit.
+	
+
+The total number of credit lines currently in the borrower's credit file
+	
+
+The initial listing status of the loan. Possible values are – W, F
+	
+
+Remaining outstanding principal for total amount funded
+	
+
+Remaining outstanding principal for portion of total amount funded by investors
+	
+
+Payments received to date for total amount funded
+	
+
+Payments received to date for portion of total amount funded by investors
+	
+
+Principal received to date
+	
+
+Interest received to date
+	
+
+Late fees received to date
+	
+
+post charge off gross recovery
+	
+
+post charge off collection fee
+	
+
+Last month payment was received
+	
+
+Last total payment amount received
+	
+
+Next scheduled payment date
+	
+
+The most recent month LC pulled credit for this loan
+	
+
+Number of collections in 12 months excluding medical collections
+	
+
+publicly available policy_code=1 new products not publicly available policy_code=2
+	
+
+Indicates whether the loan is an individual application or a joint application with two co-borrowers
+	
+
+The combined self-reported annual income provided by the co-borrowers during registration
+	
+
+A ratio calculated using the co-borrowers' total monthly payments on the total debt obligations, excluding mortgages and the requested LC loan, divided by the co-borrowers' combined self-reported monthly income
+	
+
+The number of accounts on which the borrower is now delinquent.
+	
+
+Total collection amounts ever owed
+	
+
+Total current balance of all accounts
+	
+
+Number of open trades in last 6 months
+	
+
+Number of currently active installment trades
+	
+
+Number of installment accounts opened in past 12 months
+	
+
+Number of installment accounts opened in past 24 months
+	
+
+Months since most recent installment accounts opened
+	
+
+Total current balance of all installment accounts
+	
+
+Ratio of total current balance to high credit/credit limit on all install acct
+	
+
+Number of revolving trades opened in past 12 months
+	
+
+Number of revolving trades opened in past 24 months
+	
+
+Maximum current balance owed on all revolving accounts
+	
+
+Balance to credit limit on all trades
+	
+
+Total revolving high credit/credit limit
+	
+
+Number of personal finance inquiries
+	
+
+Number of finance trades
+	
+Number of credit inquiries in past 12 months
